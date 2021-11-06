@@ -1,0 +1,2 @@
+*.csv filter=lfs diff=lfs merge=lfs -text
+Assignment_3_finding_fast_growing_firms/Raw/cs_bisnode_panel.csv filter=lfs diff=lfs merge=lfs -text
